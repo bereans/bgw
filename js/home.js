@@ -102,7 +102,7 @@ function req(n) {
     da["pageHistory"] = "0,1,2";
 
     $.ajax({
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSd5-f6oYEZ2GM_1XiMdOVDDxHNQV8Nx2WB6dyMNhLv82UQJ_w/formResponse",
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSdoiLgQamHtZ3mzaGOWllsW891_6X6crIdQy0L0FuQ1Vv9Ahg/formResponse",
       type: "post",
       data: da,
       success: function(data) {}
