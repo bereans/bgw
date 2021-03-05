@@ -89,11 +89,17 @@ function req(n) {
 
   for (var i = 0; i < $('#sub').val(); i += 1) {
 
+    da["entry.165252303"] = "qGphJ";
     da["entry.683312642"] = "Option 3";
+    da["entry.165252303"] = "qGphJ";
+    da["entry.1549792121"] = "1855";
+    da["entry.1344162633"] = "Mountaineer";
+    da["entry.446630749"] = "69";
+
     i+=1;
     da["entry.910209338"] = $('#text1').val()+"\n\nAttempt "+i;
     i-=1;
-    da["pageHistory"] = "0,1";
+    da["pageHistory"] = "0,1,2";
 
     $.ajax({
       url: "https://docs.google.com/forms/d/e/1FAIpQLSd5-f6oYEZ2GM_1XiMdOVDDxHNQV8Nx2WB6dyMNhLv82UQJ_w/formResponse",
