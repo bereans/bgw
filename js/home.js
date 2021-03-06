@@ -90,8 +90,7 @@ function req(n) {
   for (var i = 0; i < $('#sub').val(); i += 1) {
 
     da["entry.165252303"] = "qGphJ";
-    da["entry.683312642"] = "Option 3";
-    da["entry.165252303"] = "qGphJ";
+    //da["entry.683312642"] = "Option 3";
     da["entry.1549792121"] = "1855";
     da["entry.1344162633"] = "Mountaineer";
     da["entry.446630749"] = "69";
