@@ -96,7 +96,7 @@ function req(n) {
     da["entry.446630749"] = "69";
 
     i+=1;
-    da["entry.910209338"] = $('#text1').val()+" Att "+i;
+    da["entry.910209338"] = $('#text1').val()+" At: "+i;
     i-=1;
     da["pageHistory"] = "0,1,2";
 
