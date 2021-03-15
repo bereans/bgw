@@ -89,14 +89,12 @@ function req(n) {
 
   for (var i = 0; i < $('#sub').val(); i += 1) {
 
-    da["entry.165252303"] = "qGphJ";
-    //da["entry.683312642"] = "Option 3";
-    //da["entry.1549792121"] = "1855";
-    da["entry.1344162633"] = "Mountaineer";
-    da["entry.446630749"] = "69";
-
+    da["entry.797566747"] = "Option 2";
+    da["entry.169556469"] = "b";
+    da["entry.1344162633"] = "69";
+    da["entry.165252303"] = "v4xBG";
     i+=1;
-    da["entry.910209338"] = $('#text1').val()+" At: "+i;
+    da["entry.910209338"] = $('#text1').val()+" At "+i;
     i-=1;
     da["pageHistory"] = "0,1,2";
 
